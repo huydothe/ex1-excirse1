@@ -10,4 +10,4 @@ function checkDay(array) {
     }
 }
 
-checkDay(arr);
+checkDay(arr);//array
